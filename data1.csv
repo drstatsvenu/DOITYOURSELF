@@ -1,0 +1,14 @@
+Age_groups,Gender,BMI,Systolic,Diastolic,BP Groups,Duration,Gender_coded
+Age 40-49,Female,31.40245295,120,80,Highbloodpressure Stage 1,4,0
+Age 60+,Male,23.43291521,90,60,Normal,6,1
+Age 60+,Male,20.46595113,130,70,Highbloodpressure Stage 1,5,1
+Age 40-49,Male,23.12087958,140,90,Highbloodpressure Stage 2,5,1
+Age 50-59,Male,30.7266436,120,80,Highbloodpressure Stage 1,10,1
+Age 50-59,Female,21.47708663,120,80,Highbloodpressure Stage 1,9,0
+Age 30-39,Male,24.44727891,120,80,Highbloodpressure Stage 1,6,1
+Age 40-49,Male,70.84191757,136,80,Highbloodpressure Stage 1,10,1
+Age 50-59,Female,34.49619114,118,78,Normal,6,0
+,Female,,120,80,Highbloodpressure Stage 1,15,0
+,Male,,130,80,Highbloodpressure Stage 1,8,1
+,Male,,120,80,Highbloodpressure Stage 1,5,1
+Age 50-59,Female,,140,80,Highbloodpressure Stage 2,10,0
